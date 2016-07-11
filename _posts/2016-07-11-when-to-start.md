@@ -1,7 +1,7 @@
 ---
 layout: post
 title: when to start
-date: {{page.date | date_to_string}}
+date: 2016-7-11
 categories: blog
 tags: [总结,知识管理]
 description: 壬戌之秋，七月既望，苏子与客泛舟游于赤壁之下。
