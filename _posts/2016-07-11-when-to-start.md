@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 什么时候开始写作
+title: {{ page.title }}
 date: {{page.date | date_to_string}}
 categories: blog
 tags: [总结,知识管理]
